@@ -4,8 +4,8 @@ from selenium.webdriver.common.keys import Keys
 import time
 
 # Twitter credentials (for demo purposes)
-username = "tinnicumBucks"
-password = "wijnyq-1pyXso-gawrun"
+username = "username"
+password = "password"
 
 # Set up WebDriver
 driver = webdriver.Chrome()
